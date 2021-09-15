@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hangman1
+comment1.params=
+comment1.target=void\ set_array()
+comment1.text=\ Erzeugt\ ein\ String\ Array\ stored_words_array\ mit\ allen\ W\u00F6rtern\ aus\ der\ \r\n\ W\u00F6rterliste\ und\ w\u00E4hlt\ ein\ random\ Wort\ aus,\ dessen\ einzelne\ Buchstaben\ \r\n\ in\ einem\ Char\ Array\ gespeichert\ werden\r\n
+comment2.params=
+comment2.target=int\ getrandom_word_in_array_Length()
+comment3.params=
+comment3.target=char[]\ getrandom_word_in_array()
+numComments=4
